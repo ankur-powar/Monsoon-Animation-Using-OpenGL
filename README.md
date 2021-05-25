@@ -9,9 +9,9 @@ Second Year Computer Graphics Project using C++ and OpenGL.
    
                  INSTRUCTIONS:
                  
-        1]   LEFT Mouse Click to START.
+        1]   LEFT Mouse Click to START Animation.
         
-        2]   RIGHT Mouse Click to STOP.
+        2]   RIGHT Mouse Click to STOP Animation.
 
 ## `ScreenShots`
 ![output_2](https://user-images.githubusercontent.com/73847812/119506450-8ab2a780-bd8b-11eb-9fb4-c3aa32a5c92e.PNG)
